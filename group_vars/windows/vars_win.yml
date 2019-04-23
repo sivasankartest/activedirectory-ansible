@@ -1,0 +1,2 @@
+dns_name: ad1.3520.example.opentlc.com 
+safe_mode_password: '{{ vault_password }}'
